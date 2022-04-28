@@ -18,6 +18,8 @@ CRYPTOS: It's every key in FIX_CRYPTO.
 
 ESG: It's every key in FIX_ESG.
 
+PERCENTAGES: They are the values of FIX_TOKEN, FIX_CRYPTO and FIX_ESG which influence the final portfolios.
+
 PORTFOLIO: It's every column that are created by the values of FIX_TOKEN.
 
 * Add or remove as ETFs, CRYPTOS or ESG as want.
@@ -35,3 +37,7 @@ zero_cryptos_dict: Returns a dictionary with the names and all closing prices, W
 zero_esg_dict: Returns a dictionary with the names and all closing prices, WHICH WERE MODIFIED TO BECOME EASILY COMPARABLE TO EACH OTHER, for every ESG in FIX_ESG in the specific period (FROM_DAY & TO_DAY).
 
 risk_profile_dict: Returns a dictionary with the number of each portfolio and all ETFs, CRYPTOS and ESG with fixed percentage of FIX_TOKEN.
+
+portfolio_dict: Returns a dictionary with the values of every suggested Portfolio (The process is out of coding, it is just mathematics).
+
+performance_of_each_portfolio: Returns a list with the ratio of the progress of each suggested Portfolio during the specific period.
