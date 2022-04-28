@@ -18,7 +18,7 @@ ESG: It's every key in FIX_ESG.
 
 PORTFOLIO: It's every column that are created by the values of FIX_TOKEN.
 
-* Add or remove as ETFs, CRYPTOS and ESG as want.
+* Add or remove as ETFs, CRYPTOS or ESG as want.
 
 
 
