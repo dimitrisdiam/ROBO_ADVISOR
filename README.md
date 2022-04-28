@@ -26,7 +26,7 @@ PORTFOLIO: It's every column that are created by the values of FIX_TOKEN.
 
 
 
-The algorithm provides many data like:
+### The algorithm provides many data like:
 
 token_dict: Returns a dictionary with the names and all closing prices for every ETF in FIX_TOKEN, FIX_CRYPTO, and FIX_ESG in the specific period (FROM_DAY & TO_DAY).
 
