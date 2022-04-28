@@ -9,4 +9,4 @@ A robo-advisor works by first gathering information on a client through an onlin
 # yahoof.py
 It's the most important file about the project. Based on the yfinance library I managed to get the final costs of different ETFs for a specific long or short period. The algorithm provides many data like:
 
-self.token_dict: returns a dictionary with the names and all closing prices for every ETF in FIX_TOKEN, FIX_CRYPTO, and FIX_ESG in the specific period ( FROM_DAY & TO_DAY)
+self.token_dict: returns a dictionary with the names and all closing prices for every ETF in FIX_TOKEN, FIX_CRYPTO, and FIX_ESG in the specific period ( FROM_DAY & TO_DAY).
