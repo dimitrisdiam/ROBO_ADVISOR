@@ -24,10 +24,10 @@ A robo-advisor works by first gathering information on a client through an onlin
 Python
 
 # Packages
-Tkinter
-customtkinter
-matplotlib
-numpy
+Tkinter,
+customtkinter,
+matplotlib,
+numpy,
 yfinance
 
 # yahoof.py
