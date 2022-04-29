@@ -13,7 +13,7 @@ It starts with 9 basic questions in order to calculate the user's risk profile(1
 After that, if the user manages to score more than 4.1 points on the risk profile, then it will follow a new question about CRYPTOS. Independently of risk profile, the final question is about ESG preferactions. 
 
 ### PART 3.
-Depending on the user's answers to the last 2 questions about CRYPTOS (if it is available) and ESG, the number of the suggested portfolio can be changed. At the end, of the process, the app presents a line graph that shows the history of the suggested portfolios for the last 3 years. It also, separates the fields of every portfolio that the app suggests to the user, and it displays them on donut charts. Subsequently, there is an interactive text which provides more information about suggested portfolios.
+Depending on the user's answers to the last 2 questions about CRYPTOS (if it is available) and ESG, the number of the suggested portfolios can be changed. At the end, of the process, the app presents a line graph that shows the history of the suggested portfolios for the last 3 years. It also, separates the fields of every portfolio that the app suggests to the user, and it displays them on donut charts. Subsequently, there is an interactive text which provides more information about suggested portfolios.
 
 # THEME
 A robo-advisor works by first gathering information on a client through an online survey and then automatically suggests the appropriate portfolio investment for the client based on that data. 
