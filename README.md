@@ -1,6 +1,18 @@
 # ROBO_ADVISOR
 ### PLEASE, WAIT UNTIL THE CHARTS TO SEE THE PROCESS COMPLETED.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64299794/165606538-087f3709-a0c9-4e01-8bdb-9191d021280e.gif)
+The GIF displays the process of the project. 
+
+The project is separated into 3 parts.
+
+### PART 1.
+It starts with 9 basic questions in order to calculate the user's risk profile(1-5). 
+
+### PART 2.
+After that, if the user manages to score more than 4.1 points on the risk profile, then it will follow a new question about CRYPTOS. Independently of risk profile, the final question is about ESG preferactions. 
+
+### PART 3.
+Depending on the user's answers to the last 2 questions about CRYPTOS (if it is available) and ESG, the number of the suggested portfolio can be changed. At the end, of the process, the app presents a line graph that shows the history of the suggested portfolios for the last 3 years. It also, separates the fields of every portfolio that the app suggests to the user, and it displays them on donut charts. Subsequently, there is an interactive text which provides more information about suggested portfolios.
 
 # THEME
 A robo-advisor works by first gathering information on a client through an online survey and then automatically suggests the appropriate portfolio investment for the client based on that data. 
