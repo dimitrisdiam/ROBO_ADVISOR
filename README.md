@@ -10,15 +10,13 @@ A robo-advisor works by first gathering information on a client through an onlin
 
 ### FEATURES
 
-It's the most important file about the project. Based on the yfinance library I managed to get the final costs of different ETFs for a specific long or short period. 
+It's the most important file about this project. Based on the yfinance library I managed to get the final costs of different ETFs for a specific long or short period. 
 
 ETFs: It's every key in FIX_TOKEN.
 
 CRYPTOS: It's every key in FIX_CRYPTO.
 
 ESG: It's every key in FIX_ESG.
-
-PERCENTAGES: They are the values of FIX_TOKEN, FIX_CRYPTO and FIX_ESG which influence the final portfolios.
 
 PORTFOLIO: It's every column that are created by the values of FIX_TOKEN.
 
@@ -36,7 +34,7 @@ zero_cryptos_dict: Returns a dictionary with the names and all closing prices, W
 
 zero_esg_dict: Returns a dictionary with the names and all closing prices, WHICH WERE MODIFIED TO BECOME EASILY COMPARABLE TO EACH OTHER, for every ESG in FIX_ESG in the specific period (FROM_DAY & TO_DAY).
 
-risk_profile_dict: Returns a dictionary with the number of each portfolio and all ETFs, CRYPTOS and ESG with fixed percentage of FIX_TOKEN.
+risk_profile_dict: Returns a double dictionary with the number of each portfolio as key and all ETFs, CRYPTOS and ESG as a second key with fixed percentages of FIX_TOKEN as values.
 
 portfolio_dict: Returns a dictionary with the values of every suggested Portfolio (The process is out of coding, it is just mathematics).
 
