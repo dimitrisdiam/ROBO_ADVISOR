@@ -4,7 +4,7 @@
 
 The GIF displays the process of the project.
 
-The project is separated into 3 parts.
+### The project is separated into 3 parts.
 
 ### PART 1.
 It starts with 9 basic questions in order to calculate the user's risk profile(1-5). 
