@@ -1,6 +1,7 @@
 # ROBO_ADVISOR
 ### PLEASE, WAIT UNTIL THE CHARTS TO SEE THE PROCESS COMPLETED.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64299794/165606538-087f3709-a0c9-4e01-8bdb-9191d021280e.gif)
+
 The GIF displays the process of the project. 
 
 The project is separated into 3 parts.
