@@ -23,7 +23,7 @@ A robo-advisor works by first gathering information on a client through an onlin
 ## Language
 Python
 
-## packages
+## Packages
 Tkinter
 customtkinter
 matplotlib
