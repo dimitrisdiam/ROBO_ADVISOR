@@ -9,10 +9,10 @@ The GIF displays the process of the project.
 #### PART 1.
 It starts with 9 basic questions in order to calculate the user's risk profile(1-5). 
 
-### PART 2.
+#### PART 2.
 After that, if the user manages to score more than 4.1 points on the risk profile, then it will follow a new question about CRYPTOS. Independently of risk profile, the final question is about ESG preferactions. 
 
-### PART 3.
+#### PART 3.
 Depending on the user's answers to the last 2 questions about CRYPTOS (if it is available) and ESG, the number of the suggested portfolios can be changed. At the end of the process, the app presents a line graph that shows the history of the suggested portfolios for the last 3 years. It also, separates the fields of every portfolio that the app suggests to the user, and it displays them on donut charts. Subsequently, there is an interactive text which provides more information about suggested portfolios.
 
 ## THEME
@@ -32,7 +32,7 @@ yfinance
 
 ## yahoof.py
 
-### FEATURES
+#### FEATURES
 
 It's the most important file about this project. Based on the yfinance library I managed to get the final costs of different ETFs for a specific long or short period. 
 
@@ -50,7 +50,7 @@ PORTFOLIO: It's every column that are created by the values of FIX_TOKEN.
 
 
 
-### The algorithm provides many data like:
+#### The algorithm provides many data like:
 
 token_dict: Returns a dictionary with the names and all closing prices for every ETF in FIX_TOKEN, FIX_CRYPTO, and FIX_ESG in the specific period (FROM_DAY & TO_DAY).
 
