@@ -15,22 +15,22 @@ After that, if the user manages to score more than 4.1 points on the risk profil
 ### PART 3.
 Depending on the user's answers to the last 2 questions about CRYPTOS (if it is available) and ESG, the number of the suggested portfolios can be changed. At the end of the process, the app presents a line graph that shows the history of the suggested portfolios for the last 3 years. It also, separates the fields of every portfolio that the app suggests to the user, and it displays them on donut charts. Subsequently, there is an interactive text which provides more information about suggested portfolios.
 
-# THEME
+## THEME
 A robo-advisor works by first gathering information on a client through an online survey and then automatically suggests the appropriate portfolio investment for the client based on that data. 
 
 * The risk allocation strategy, as well as the sectors selection, are based on sophisticated financial technics created for a target group of Luxembourgish adults between 20 and 30 years old.
 
-# Language
+## Language
 Python
 
-# Packages
+## Packages
 Tkinter,
 customtkinter,
 matplotlib,
 numpy,
 yfinance
 
-# yahoof.py
+## yahoof.py
 
 ### FEATURES
 
