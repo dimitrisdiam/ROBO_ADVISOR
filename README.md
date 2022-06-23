@@ -18,7 +18,7 @@ Depending on the user's answers to the last 2 questions about CRYPTOS (if it is 
 ## THEME
 A robo-advisor works by first gathering information on a client through an online survey and then automatically suggests the appropriate portfolio investment for the client based on that data. 
 
-* The risk allocation strategy, as well as the sectors selection, are based on sophisticated financial technics created for a target group of Luxembourgish adults between 20 and 30 years old.
+* The risk allocation strategy, as well as the sectors selection, are based on sophisticated financial techniques created for a target group of Luxembourgish adults between 20 and 30 years old.
 
 ## Language
 Python
